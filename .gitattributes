@@ -3,4 +3,8 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.doc filter=lfs diff=lfs merge=lfs -text
+=======
+*.doc filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 4b97f7d8322a8ac686cdba6aea985c605cf001f4
